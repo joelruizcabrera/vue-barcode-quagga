@@ -1,5 +1,5 @@
 /*!
- * vue-barcode-quagga v0.0.1
+ * vue-barcode-quagga v0.0.2
  * (c) Joel Schwegmann
  * Released under the ISC License.
  */
