@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "vue-barcode-quagga",
+  "name": "@joelruizcabrera/vue-barcode-quagga",
   "version": "0.0.2",
   "description": "Quagga Barcode Scanner for Vue.",
   "main": "./dist/index.js",
